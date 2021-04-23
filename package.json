@@ -1,0 +1,8 @@
+{
+  "name": "kartka-translates",
+  "version": "1.0.0",
+  "main": "main.ts",
+  "repository": "git@github.com:Jaroslav-Lesiv/kartka-translates.git",
+  "author": "Jaroslav Lesiv <jaroslav.webdeva@gmail.com>",
+  "license": "MIT"
+}
