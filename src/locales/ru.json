@@ -1,0 +1,21 @@
+{
+	"category.restaurants": "Ресторан",
+	"category.hotels": "Отель",
+	"category.bars": "Бар",
+	"category.cafe": "Кафе",
+	"category.coffee": "Кофейня",
+	"category.museums": "Музей",
+	"category.beauty": "Красота",
+	"category.attractions": "Развлечения",
+	"category.sport": "Спорт",
+	"category.lifestyle": "Стиль жизни",
+	"category.medicine": "Медицина",
+  
+	"city.kyiv": "Киев",
+	"city.kharkiv": "Харьков",
+	"city.odessa": "Одесса",
+	"city.dnipro": "Днепр",
+	"city.lviv": "Львов",
+	"city.mulolaiv": "Николаев",
+	"city.kherson": "Херсон"
+}
