@@ -37,8 +37,8 @@ class Translate {
     if (!translate || typeof translate !== 'string') return key;
 
     if (options) {
-      Object.entries(options).forEach(([key, value]: [string, any]): void => {
-        translate.replace(`{{${key}}}`, value);
+      Object.entries(options).forEach(([_key, value]: [string, any]): void => {
+        translate = translate.replace(`{{${_key}}}`, value);
       });
     }
 
@@ -46,6 +46,6 @@ class Translate {
   };
 }
 
-const translate = new Translate();
+const t = new Translate();
 
-export default translate;
+export { t };
